@@ -1,0 +1,8 @@
+#Creer l environnement myenv
+conda create --name myenv
+
+#Pour lister les environnement
+conda env list
+
+#Installer une bibliotheque
+conda install scikit-learn

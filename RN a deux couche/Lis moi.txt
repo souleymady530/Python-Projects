@@ -1,0 +1,4 @@
+#Ce code utiliser Scikitlearn et matplotlib pour la creation d un reseau de neuronne a deux couches. C est le code de la chaine Machine Learnia de youtube donc vous pouvez suivre le tutoriel et comprendre comment il fonction.
+
+#IDE
+j ai utilise spyder de anaconda,configurer un env virtuelle(Trouver comment le faire avec conda dans le fichier Creation d un env avec conda). Dans cette configuration  vous devez inclure matplot et scikit vue les installant via conda install ................
